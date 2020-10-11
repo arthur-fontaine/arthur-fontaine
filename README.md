@@ -16,6 +16,8 @@
   
 - ⚡ Fun fact:
   - Arthur is written ***アーサー*** in Japanese
+  
+*(look at the various things I have done on my ***[🥼 Lab](https://github.com/arthur-fontaine/Lab)***)*
 <!--
 **arthur-fontaine/arthur-fontaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
