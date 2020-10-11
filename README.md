@@ -15,7 +15,7 @@
   - [Contact me on Twitter](https://twitter.com/f_arthr)
   
 - ⚡ Fun fact:
-  - Arthur is written ***アーサー*** in Japanese
+  - Arthur is written ***アーサー*** in Japanese 🇯🇵
   
 *(look at the various things I have done on my ***[🥼 Lab](https://github.com/arthur-fontaine/Lab)***)*
 <!--
