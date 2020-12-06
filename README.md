@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on ...:
   - [Beatter](https://github.com/arthur-fontaine/Beatter)
-  - [Opews Parser](https://github.com/arthur-fontaine/Opews-Parser)
-  - [Vinton](https://github.com/arthur-fontaine/vinton)
   
 - 🌱 I’m currently learning ...:
   - Nuxt.js
