@@ -8,7 +8,12 @@
   - [Vinton](https://github.com/arthur-fontaine/vinton)
   
 - 🌱 I’m currently learning ...:
-  - Vue Native
+  - Nuxt.js
+  - Jest
+
+- ❤️ I love ...:
+  - Vue.js
+  - TypeScript
 
 - 📫 How to reach me:
   - [Send me an email](mailto:0arthur.fontaine@gmail.com)
