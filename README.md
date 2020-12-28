@@ -3,7 +3,7 @@
 #### My website: https://arthurfontaine.fr
 
 - 🔭 I’m currently working on ...:
-  - [Beatter](https://github.com/arthur-fontaine/Beatter)
+  - [Quice](https://github.com/Quice)
   
 - 🌱 I’m currently learning ...:
   - Nuxt.js
