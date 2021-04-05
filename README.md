@@ -20,6 +20,7 @@
   
 - ⚡ Fun fact:
   - Arthur is written ***アーサー*** in Japanese 🇯🇵
+  - You can [buy me a cookie](https://www.buymeacoffee.com/arthurfontaine) 🍪
   
 *(look at the various things I have done on my ***[🥼 Lab](https://github.com/arthur-fontaine/Lab)***)*
 <!--
