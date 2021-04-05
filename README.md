@@ -4,13 +4,14 @@
 
 - 🔭 I’m currently working on ...:
   - [Quice](https://github.com/Quice)
+  - [HiberFile](https://hiberfile.com)
   
 - 🌱 I’m currently learning ...:
-  - Nuxt.js
+  - React (and React Native)
   - Jest
 
 - ❤️ I love ...:
-  - Vue.js
+  - Nuxt.js
   - TypeScript
 
 - 📫 How to reach me:
