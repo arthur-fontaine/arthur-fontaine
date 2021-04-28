@@ -7,6 +7,7 @@
   - [HiberFile](https://hiberfile.com)
   
 - 🌱 I’m currently learning ...:
+  - Flutter
   - React (and React Native)
   - Jest
 
