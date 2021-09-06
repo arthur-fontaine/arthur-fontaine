@@ -1,4 +1,6 @@
 <h1 align="center">Arthur Fontaine</h1>
+<h4 align="center"><a href="https://arthurfontaine.fr">https://arthurfontaine.fr</a></h4>
+
 <p align="center">
   <a href="mailto:0arthur.fontaine@gmail.com" target="_blank" >
       <img alt="Contact me" src="https://img.shields.io/badge/Contact%20me--lightgrey?style=social&logo=gmail">
@@ -19,10 +21,10 @@
 
 <p align="center" >
   <a href="https://github.com/hiberfile/hiberfile" target="_blank">
-     <img alt="Hiberfile" src="https://github-readme-stats.vercel.app/api/pin/?username=hiberfile&repo=hiberfile">
+     <img alt="Hiberfile" src="https://github-readme-stats.vercel.app/api/pin/?username=hiberfile&repo=hiberfile&theme=github_dark">
   </a>
   <a href="https://github.com/quice/quice" target="_blank">
-     <img alt="Hiberfile" src="https://github-readme-stats.vercel.app/api/pin/?username=quice&repo=quice">
+     <img alt="Hiberfile" src="https://github-readme-stats.vercel.app/api/pin/?username=quice&repo=quice&theme=github_dark">
   </a>
 </p>
   
