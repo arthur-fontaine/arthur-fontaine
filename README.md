@@ -21,11 +21,14 @@
  - frameworks for back-end:
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-%23220052.svg?style=flat&logo=adonisjs&logoColor=white) ![Koa](https://img.shields.io/badge/Koa-%23000.svg?style=flat&logo=koa&logoColor=white)
 
+- databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
 - frameworks for mobile development:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
  
  - others:
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 
 ## 🌱 What I am currently learning
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
