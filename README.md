@@ -13,7 +13,7 @@
 ## 💻 My favourite tech stack
 
  - languages:
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
  
  - frameworks for front-end:
 ![NuxtJS](https://img.shields.io/badge/NuxtJS-%2300C675?style=flat&logo=nuxt.js&logoColor=white) ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?style=flat&logo=svelte&logoColor=white)
