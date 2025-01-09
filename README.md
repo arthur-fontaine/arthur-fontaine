@@ -23,4 +23,8 @@
 
   - [Agrume](https://github.com/arthur-fontaine/agrume) — A type-safe way to build RPC APIs directly in your frontend
 
+  **my articles**
+
+  - [Next.js: The Framework That Traps You More Than It Frees You, and How to Break Free](https://www.arthurfontaine.fr/blog/nextjs-is-bad)
+
 </samp>
