@@ -19,4 +19,8 @@
   - [Yielable JSX](https://github.com/arthur-fontaine/yieldable-jsx) — JSX runtime that works with yield
   - [JSxon](https://github.com/arthur-fontaine/jsxon) — Serve UI as JSON and render it on the client side natively (on Kotlin, Swift, web, or whatever)
 
+  **my published libs**
+
+  - [Agrume](https://github.com/arthur-fontaine/agrume) — A type-safe way to build RPC APIs directly in your frontend
+
 </samp>
