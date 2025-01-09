@@ -1,9 +1,9 @@
 <header>
   <p align="right">
     <samp>
-      <a href="https://arthurfontaine.fr">🔗 My website</a> •
-      <a href="https://twitter.com/voithure">🐦 My twitter</a> •
-      <a href="https://discord.com/users/570841288308686848">💬 My discord</a>
+      <a href="https://arthurfontaine.fr">website</a> •
+      <a href="https://twitter.com/voithure">twitter</a> •
+      <a href="https://discord.com/users/570841288308686848">discord</a>
     </samp>
   </p>
 
