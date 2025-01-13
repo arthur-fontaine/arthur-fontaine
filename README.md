@@ -27,6 +27,10 @@
 
   - [Next.js: The Framework That Traps You More Than It Frees You, and How to Break Free](https://www.arthurfontaine.fr/blog/nextjs-is-bad)
 
+  **my starters**
+
+  - [web + mobile](https://github.com/arthur-fontaine/web-starter)
+
 </samp>
 
 ---
