@@ -15,6 +15,7 @@
 
   **my experiments**
 
+  - [Watercrawl](https://github.com/arthur-fontaine/watercrawl) — An AI-powered web crawler/scraper designed to be simple and to be used with the tools YOU want to use
   - [Nanomachine](https://gist.github.com/arthur-fontaine/608a6e04d4e600779be2a3b8f89bd11c) — A type-safe state machine builder based on Nanostores and inspired by XState
   - [Yielable JSX](https://github.com/arthur-fontaine/yieldable-jsx) — JSX runtime that works with yield
   - [JSXon](https://github.com/arthur-fontaine/jsxon) — Serve UI as JSON and render it on the client side natively (on Kotlin, Swift, web, or whatever)
