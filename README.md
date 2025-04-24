@@ -24,6 +24,10 @@
 
   - [Agrume](https://github.com/arthur-fontaine/agrume) — A type-safe way to build RPC APIs directly in your frontend
 
+  **my released apps**
+
+  - [Karmine Plus Calendar](https://github.com/arthur-fontaine/kcorp-api) — An ICS calendar to keep track of the matches of the esport team Karmine Corp
+
   **my starters**
 
   - [web + mobile](https://github.com/arthur-fontaine/web-starter)
