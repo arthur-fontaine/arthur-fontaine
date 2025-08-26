@@ -38,6 +38,6 @@
 
 <samp>
 
-  **looking for my config?** [arthur-fontaine/config](https://github.com/arthur-fontaine/config)
+  **looking for my config?** [arthur-fontaine/config](https://github.com/arthur-fontaine/dotfiles)
 
 </samp>
