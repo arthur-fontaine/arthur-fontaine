@@ -1,4 +1,8 @@
 <header>
+  <samp>
+    developer at <a href="https://kraaft.co/">Kraaft</a>
+  </samp>
+
   <p align="right">
     <samp>
       <a href="https://arthurfontaine.fr">website</a> •
@@ -7,11 +11,31 @@
     </samp>
   </p>
 
-  ---
-  
 </header>
 
+---
+
 <samp>
+
+  **currently building [Tuan](https://tuan.world/),** a tool that maps codebases into a semantic graph to make them easier to explore and understand.
+
+<a href="https://tuan.world/">
+  <img src="./assets/tuan-cover.png" />
+</a>
+
+<a href="https://x.com/tuan_world">
+  <img src="./assets/tuan-updates.png" />
+</a>
+
+</samp>
+
+---
+
+<samp>
+
+**maintainer of**
+
+  - [ddd-ts](https://github.com/ddd-ts/monorepo) — A collection of TypeScript libraries to help you implement Domain-Driven Design, Command Query Responsibility Segregation, and Event Sourcing in your projects
 
   **my experiments**
 
@@ -27,10 +51,6 @@
   **my released apps**
 
   - [Karmine Plus Calendar](https://github.com/arthur-fontaine/kcorp-api) — An ICS calendar to keep track of the matches of the esport team Karmine Corp
-
-  **my starters**
-
-  - [web + mobile](https://github.com/arthur-fontaine/web-starter)
 
 </samp>
 
